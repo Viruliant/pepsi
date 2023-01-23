@@ -47,6 +47,8 @@ Notes:
 Resources
 ---------
 
+At Stanford Ian Piumarta gave a presentation "[Building Your Own Dynamic Language](https://youtu.be/cn7kTPbW6QQ)" a [pdf of slides](doc/EE380-2007-slides.pdf) is available.
+
 The 'fundamentals of new computing' mailing list discusses all things
 related to this work.  Subscribe here:
 
